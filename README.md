@@ -14,10 +14,10 @@ Data analysis project on car sales using SQL and Power BI
 - [Business Objective](#business-objective)  
 - [ETL Procedure](#etl-procedure)  
 - [SQL Data Modelling](#sql-data-modelling)  
-- [Power BI Dashboard](#power-bi-dashboard)  
+- [Power BI Dashboard](#power-bi-dashboard)
+- [Screenshots](#screenshots)   
 - [Outcomes & Insights](#outcomes--insights)  
 - [Business Recommendations](#business-recommendations)  
-- [Screenshots](#screenshots)  
 - [Key Takeaways](#key-takeaways)  
 
 ---
@@ -84,10 +84,10 @@ The dashboard highlights business-critical insights using:
 ![Brand Performance](Brand_rep.PNG)
 
 ### 🌍 Regional Sales
-![Regional Sales](Sales_rep.PNG)
+![Regional Sales](dealer_rep.PNG)
 
 ### 📆 Sales Trends
-![Sales Trends](dealer_rep.PNG)
+![Sales Trends](Sales_rep.PNG)
 
 ---
 
