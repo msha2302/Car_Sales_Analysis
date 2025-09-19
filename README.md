@@ -78,16 +78,16 @@ The dashboard highlights business-critical insights using:
 ## Screenshots
 
 ### 📊 Dashboard Overview
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](Dashboard_overview.PNG)
 
 ### 📈 Brand & Model Performance
-![Brand Performance](images/brand_performance.png)
+![Brand Performance](Brand_rep.PNG)
 
 ### 🌍 Regional Sales
-![Regional Sales](images/regional_sales.png)
+![Regional Sales](Sales_rep.PNG)
 
 ### 📆 Sales Trends
-![Sales Trends](images/sales_trends.png)
+![Sales Trends](dealer_rep.PNG)
 
 ---
 
