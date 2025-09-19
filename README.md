@@ -78,3 +78,9 @@ Business Recommendations
 4. Operational Strategy
   a) Align production with seasonal demand peaks.
   b) Explore predictive modeling for future sales forecasting.
+
+Key Takeaways:
+1. Built a complete ETL pipeline: raw dataset → SQL transformations → Power BI dashboards.
+2. Applied advanced SQL (CTEs, joins, window functions, date dimensioning).
+3. Designed interactive dashboards for business stakeholders.
+4. Translated raw data into strategic recommendations for growth.
