@@ -94,14 +94,17 @@ The dashboard highlights business-critical insights using:
 ## Outcomes & Insights
 
 ### 1. Top Brands & Models
+- Chevrolet, Ford, and Dodge remain the biggest drivers of revenue.
 - A handful of brands dominate market share  
 - Flagship models generate most revenue, while entry-level models drive volume  
 
 ### 2. Sales Trends
 - Year-over-year growth with clear seasonal peaks in certain quarters  
-- Market dips align with broader economic cycles  
+- Market dips align with broader economic cycles
+- Growth of 23.6% YoY → Market expansion or improved dealership performance.
 
 ### 3. Regional Performance
+- Sales are concentrated in specific regions (Austin & Janesville dominate)
 - High sales concentration in urban/high-income regions  
 - Untapped opportunities in emerging regions  
 
