@@ -14,7 +14,7 @@ Data analysis project on car sales using SQL and Power BI
 - [Business Objective](#business-objective)  
 - [ETL Procedure](#etl-procedure)  
 - [SQL Data Modelling](#sql-data-modelling)  
-- [Power BI Dashboard](#power-bi-dashboard)
+- [Power BI Report](#power-bi-dashboard)
 - [Screenshots](#screenshots)   
 - [Outcomes & Insights](#outcomes--insights)  
 - [Business Recommendations](#business-recommendations)  
@@ -77,8 +77,8 @@ The dashboard highlights business-critical insights using:
 ---
 ## Screenshots
 
-### 📊 Dashboard Overview
-![Dashboard Overview](Dashboard_overview.PNG)
+### 📊 Report Overview
+![Basic Overview](Dashboard_overview.PNG)
 
 ### 📈 Brand & Model Performance
 ![Brand Performance](Brand_rep.PNG)
@@ -137,7 +137,7 @@ The dashboard highlights business-critical insights using:
 
 ## Key Takeaways
 
-1. Built a complete **ETL pipeline**: raw dataset → SQL transformations → Power BI dashboards  
+1. Built a complete **ETL pipeline**: raw dataset → SQL transformations → Power BI Report  
 2. Applied **advanced SQL** (CTEs, joins, window functions, date dimensioning)  
-3. Designed **interactive dashboards** for business stakeholders  
+3. Designed **interactive Reports** for business stakeholders  
 4. Translated raw data into **strategic recommendations** for growth  
